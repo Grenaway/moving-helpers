@@ -15,7 +15,7 @@ export default function Header() {
           <a href="/contact">Contact</a>
         </nav>
 
-        <a href="tel:18145551234" className="nav-call">
+        <a href="tel:18143970523" className="nav-call">
           Call Now
         </a>
       </div>

@@ -18,7 +18,7 @@ export default function QuotePage() {
         <div className="container form-container">
           <form
             className="quote-form"
-            action="https://formsubmit.co/wgrenaway@gmail.com"
+            action="https://formsubmit.co/getmovinghelpersllc@gmail.com"
             method="POST"
           >
             <input
